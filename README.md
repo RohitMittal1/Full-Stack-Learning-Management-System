@@ -209,7 +209,7 @@ This project is licensed under the ISC License.
 
 ## 👥 Contributors
 
-- Harshit Nijhawan - [GitHub Profile](https://github.com/Harshit-nijhawan)
+- Rohit Mittal - [GitHub Profile](https://github.com/RohitMittal1)
 
 ## 🤝 Contributing
 
