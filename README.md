@@ -219,9 +219,7 @@ This project is licensed under the ISC License.
 4. Push to the branch
 5. Open a Pull Request
 
-## 📧 Support
 
-For support, email [your-email@domain.com] or open an issue on GitHub.
 
 ---
 
